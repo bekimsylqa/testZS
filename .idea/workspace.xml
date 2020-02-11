@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0813cf83-ee1e-44b9-8f85-3d588eb0d7a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/js/components/followButton.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/posts/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/profiles/edit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProfilesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_02_07_092520_create_profiles_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_02_07_092520_create_profiles_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/posts/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/posts/show.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/profiles/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -206,6 +189,7 @@
       <workItem from="1580995252455" duration="5952000" />
       <workItem from="1581062202537" duration="11007000" />
       <workItem from="1581322201547" duration="17893000" />
+      <workItem from="1581408776894" duration="1706000" />
     </task>
     <servers />
   </component>
@@ -234,20 +218,20 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1920.977@0.23.1920.977" timestamp="1580915337268" />
-    <state x="286" y="411" key="com.intellij.ide.util.TipDialog" timestamp="1581322226042">
+    <state x="286" y="411" key="com.intellij.ide.util.TipDialog" timestamp="1581408786134">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="286" y="411" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581322226042" />
+    <state x="286" y="411" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581408786134" />
     <state x="286" y="395" key="com.intellij.ide.util.TipDialog/0.23.1920.977@0.23.1920.977" timestamp="1580977222556" />
     <state x="286" y="395" key="com.intellij.ide.util.TipDialog/0.23.1920.978@0.23.1920.978" timestamp="1580995253693" />
     <state x="625" y="255" key="run.anything.popup" timestamp="1580996558383">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="625" y="255" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580996558383" />
-    <state x="625" y="238" width="670" height="748" key="search.everywhere.popup" timestamp="1581347126451">
+    <state x="625" y="238" width="670" height="748" key="search.everywhere.popup" timestamp="1581409240832">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="625" y="238" width="670" height="748" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581347126451" />
+    <state x="625" y="238" width="670" height="748" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581409240832" />
     <state x="625" y="238" width="670" height="676" key="search.everywhere.popup/0.23.1920.977@0.23.1920.977" timestamp="1580917852596" />
   </component>
 </project>
